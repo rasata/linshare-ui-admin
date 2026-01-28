@@ -1197,7 +1197,7 @@
           "ENABLE_CHECKBOX_DESCRIPTION": "Allow file versioning"
         },
         "DELEGATION_POLICY": {
-          "DESCRIPTION": "Determine whether users can turn on/off file versioning feature on their workgorups",
+          "DESCRIPTION": "Determine whether users can turn on/off file versioning feature on their workgroups",
           "ENABLE_CHECKBOX_DESCRIPTION": "Allow users to turn on/off file versioning"
         },
         "PARAMETER": {
